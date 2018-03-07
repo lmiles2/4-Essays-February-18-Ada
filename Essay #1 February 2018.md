@@ -1,5 +1,4 @@
-## **1. Why do you want join Ada Developers Academy? Why are you interested in programming?  
-## Tell us about your journey thus far to learn about and confirm your interest in programming.**  
+## 1. Why do you want join Ada Developers Academy? Why are you interested in programming? Tell us about your journey thus far to learn about and confirm your interest in programming.  
 I want to join Ada Developers Academy to change my career and delve further into the tech community . .
 where I exist on the surface as a Receptionist at Microsoft.  I seek to gain the solid technical background . .
 to become an influencer in the field.  In Development for the Northwest African American Museum, I added a   
