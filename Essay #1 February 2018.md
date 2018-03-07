@@ -1,9 +1,5 @@
 ## 1. Why do you want join Ada Developers Academy? Why are you interested in programming? Tell us about your journey thus far to learn about and confirm your interest in programming.  
-I want to join Ada Developers Academy to change my career and delve further into the tech community . .
-where I exist on the surface as a Receptionist at Microsoft.  I seek to gain the solid technical background . .
-to become an influencer in the field.  In Development for the Northwest African American Museum, I added a   
-pledge reminder report to our donor database system which did not exist in the system, but instead was presented  
-as a customized, specialty report created by in-house consultants.  My boss suggested I offer to sell my version  
+I want to join Ada Developers Academy to change my career and delve further into the tech community where I exist on the surface as a Receptionist at Microsoft.  I seek to gain the solid technical background to become an influencer in the field.  In Development for the Northwest African American Museum, I added a pledge reminder report to our donor database system which did not exist in the system, but instead was presented as a customized, specialty report created by in-house consultants.  My boss suggested I offer to sell my version  
 of the pledge reminder report to eTapestry, but the company insisted they knew how to create it – there was just  
 an added cost.  They responded by publishing a Read Me file online with all the advanced steps that created the  
 report when in reality, it could exist as a simple function on the user interface. As a trainer on SAP with AIG SunAmerica,  
