@@ -4,7 +4,6 @@ of the pledge reminder report to eTapestry, but the company insisted they knew h
 an added cost.  They responded by publishing a Read Me file online with all the advanced steps that created the  
 report when in reality, it could exist as a simple function on the user interface. As a trainer on SAP with AIG SunAmerica,  
 my background informed the report.  My entrée into programming occurred at Stanford – the bastion of Computer Science.  
-I took Intro to Computer Science.  In this course, I wrote programs which rarely worked and it was difficult to find the reason why.     
-I attempted to get extra help.  It was difficult to return a working finished product.  In 2014, I took a free course Aquent provided   
+I took Intro to Computer Science.  In this course, I wrote programs which rarely worked and it was difficult to find the reason why. I attempted to get extra help.  It was difficult to return a working finished product.  In 2014, I took a free course Aquent provided   
 in HTML, CSS and javascript.  I understood what programming for web development was about.  I felt truly redeemed with programming  
 that I now was able to muddle through successfully.  
